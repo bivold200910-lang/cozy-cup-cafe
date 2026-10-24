@@ -1,5 +1,5 @@
 #☕ Cozy Cup Cafe
-
+<img width="1521" height="758" alt="image" src="https://github.com/user-attachments/assets/87df1fa9-83fe-45c1-8486-b6403470f4c5" />
 Welcome to Cozy Cup Cafe! A funky, retro-inspired café website built as my project for Hack Club's Boba Bash.
 
 **Code. Sip. Repeat.**
